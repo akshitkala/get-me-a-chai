@@ -1,27 +1,28 @@
 {
   "footer": {
-    "footer_copyright": "copyright &copy; Get me a chai-Fund your projects - all rights reserved"
+    "footer_copyright_text": "copyright &copy; Get me a chai-Fund your projects - all rights reserved"
   },
   "navbar": {
-    "navbar_logo": "GetMeAChai!",
-    "navbar_login": "Log in",
-    "navbar_logout": "Log out"
+    "navbar_logo_text": "GetMeAChai!",
+    "welcome_message": "welcome {session.user.name}"
   },
   "page": {
-    "page_supporters": "Supporters",
-    "page_make_a_payment": "Make a Payment",
-    "page_pay": "Pay",
-    "page_image_1": "/sideprofile.jpeg",
-    "page_image_2": "/profile.png",
-    "page_image_3": "/avtaar.gif"
+    "supporters_header": "Supporters",
+    "make_a_payment_header": "Make a Payment",
+    "profile_image": "/profile.png",
+    "background_image": "/sideprofile.jpeg",
+    "avtaar_image": "/avtaar.gif"
+  },
+  "dashboardform": {
+    "dashboard_form_title": "Welcome to your Dashboard"
   },
   "login": {
-    "login_title": "Login to get your fans support",
-    "login_sign_in_with_github": "Sign in with GitHub",
-    "login_sign_in_with_google": "Sign in with Google",
-    "login_or_login_with_email": "or login with email",
-    "login_email_address": "Email Address",
-    "login_password": "Password",
-    "login_sign_in": "Sign In"
+    "login_header": "Login to get your fans support",
+    "login_with_github": "Sign in with GitHub",
+    "login_with_google": "Sign in with Google",
+    "or_login_with_email": "or login with email",
+    "forget_password": "Forget Password?",
+    "sign_in_button": "Sign In",
+    "or_sign_up": "or sign up"
   }
 }
