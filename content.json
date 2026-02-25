@@ -1,21 +1,12 @@
 {
   "footer": {
-    "footer_copyright": "copyright ©; Get me a chai-Fund your projects - all rights reserved"
-  },
-  "navbar": {
-    "navbar_logo": "navbar_logo",
-    "navbar_login": "navbar_login",
-    "navbar_logout": "navbar_logout"
-  },
-  "page": {
-    "page_image_1": "page_image_1",
-    "page_image_2": "page_image_2",
-    "page_image_3": "page_image_3",
-    "page_supporters": "page_supporters",
-    "page_make_a_payment": "page_make_a_payment",
-    "page_pay": "page_pay"
+    "footer_copyright_text": "copyright ©; Get me a chai-Fund your projects - all rights reserved"
   },
   "login": {
-    "login_title": "Login to get your fans support"
+    "login_title": "Login to get your fans support",
+    "login_sign_in_with_github": "Sign in with GitHub",
+    "login_sign_in_with_google": "Sign in with Google",
+    "login_or_login_with_email": "or login with email",
+    "login_or_sign_up": "or sign up"
   }
 }
