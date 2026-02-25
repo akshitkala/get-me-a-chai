@@ -1,21 +1,21 @@
 {
   "footer": {
-    "footer_copyright_text": "changed"
+    "footer_copyright": "copyright ©; Get me a chai-Fund your projects - all rights reserved"
   },
   "navbar": {
-    "navbar_logo_text": "{navbar.navbar_logo}",
-    "navbar_login_text": "{navbar.navbar_login}",
-    "navbar_logout_text": "{navbar.navbar_logout}"
+    "navbar_logo": "navbar_logo",
+    "navbar_login": "navbar_login",
+    "navbar_logout": "navbar_logout"
   },
   "page": {
-    "page_image_1": "{page.page_image_1}",
-    "page_image_2": "{page.page_image_2}",
-    "page_image_3": "{page.page_image_3}",
-    "page_supporters_text": "{page.page_supporters}",
-    "page_make_a_payment_text": "{page.page_make_a_payment}",
-    "page_pay_button_text": "{page.page_pay}"
+    "page_image_1": "page_image_1",
+    "page_image_2": "page_image_2",
+    "page_image_3": "page_image_3",
+    "page_supporters": "page_supporters",
+    "page_make_a_payment": "page_make_a_payment",
+    "page_pay": "page_pay"
   },
   "login": {
-    "login_header_text": "Login available"
+    "login_title": "Login to get your fans support"
   }
 }
