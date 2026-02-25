@@ -3,26 +3,19 @@
     "footer_copyright_text": "copyright &copy; Get me a chai-Fund your projects - all rights reserved"
   },
   "navbar": {
-    "navbar_logo_text": "GetMeAChai!",
-    "welcome_message": "welcome {session.user.name}"
+    "navbar_logo_text": "{navbar.navbar_logo}",
+    "navbar_login_text": "{navbar.navbar_login}",
+    "navbar_logout_text": "{navbar.navbar_logout}"
   },
   "page": {
-    "supporters_header": "Supporters",
-    "make_a_payment_header": "Make a Payment",
-    "profile_image": "/profile.png",
-    "background_image": "/sideprofile.jpeg",
-    "avtaar_image": "/avtaar.gif"
-  },
-  "dashboardform": {
-    "dashboard_form_title": "Welcome to your Dashboard"
+    "page_image_1": "{page.page_image_1}",
+    "page_image_2": "{page.page_image_2}",
+    "page_image_3": "{page.page_image_3}",
+    "page_supporters_text": "{page.page_supporters}",
+    "page_make_a_payment_text": "{page.page_make_a_payment}",
+    "page_pay_button_text": "{page.page_pay}"
   },
   "login": {
-    "login_header": "Login to get your fans support",
-    "login_with_github": "Sign in with GitHub",
-    "login_with_google": "Sign in with Google",
-    "or_login_with_email": "or login with email",
-    "forget_password": "Forget Password?",
-    "sign_in_button": "Sign In",
-    "or_sign_up": "or sign up"
+    "login_header_text": "Login to get your fans support"
   }
 }
