@@ -3,9 +3,27 @@
     "footer_copyright_text": "copyright &copy; Get me a chai-Fund your projects - all rights reserved"
   },
   "navbar": {
-    "navbar_welcome_text": "Welcome"
+    "navbar_login_text": "Login"
+  },
+  "page": {
+    "page_hero_title": "Get me a chai",
+    "page_teachers_subtitle": "A crowd fundeding platform for creators. Get funded by your fans and follower.Start now!",
+    "page_fund_yourself_title": "Fund Yourself",
+    "page_earn_tips_title": "Earn Tips",
+    "page_fans_want_to_help_title": "Fans want to help",
+    "page_start_here_button": "Start Here",
+    "page_read_more_button": "Read More",
+    "page_your_fans_can_buy_u_a_chai_title": "Your fans can buy u a Chai",
+    "page_hero_image": "https://merakiui.com/images/logo.svg",
+    "page_man_image": "page.man_image",
+    "page_coin_image": "page.coin_image",
+    "page_group_image": "page.group_image"
   },
   "login": {
-    "login_title": "Login to get your fans support"
+    "login_title": "Login to get your fans support",
+    "login_welcome_back_text": "Welcome back!",
+    "login_or_login_with_email_text": "or login with email",
+    "login_forget_password_text": "Forget Password?",
+    "login_sign_in_text": "Sign In"
   }
 }
