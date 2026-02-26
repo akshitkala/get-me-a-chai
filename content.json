@@ -1,17 +1,22 @@
 {
-  "page": {
-    "hero_title_text": "Get Me A Chai",
-    "hero_description": "edited by panelift",
-    "tea_image": "https://example.com/tea-image.jpg",
-    "man_image": "https://example.com/man-image.jpg",
-    "coin_image": "https://example.com/coin-image.jpg",
-    "group_image": "https://example.com/group-image.jpg"
+  "footer": {
+    "footer_copyright_text": "copyright ©; Get me a chai-Fund your projects - all rights reserved"
   },
   "navbar": {
-    "navbar_login": "Login",
-    "navbar_logout": "Logout"
+    "navbar_login_text": "Login",
+    "navbar_logout_text": "Logout"
   },
-  "footer": {
-    "footer_copyright_text": "copyright &copy; Get me a chai-Fund your projects - all rights reserved"
+  "page": {
+    "page_hero_title": "Get Me A Chai",
+    "page_tea_image": "https://example.com/tea-image.jpg",
+    "page_start_here_button": "Start Here",
+    "page_read_more_button": "Read More",
+    "page_man_image": "https://example.com/man-image.jpg",
+    "page_coin_image": "https://example.com/coin-image.jpg",
+    "page_group_image": "https://example.com/group-image.jpg"
+  },
+  "login": {
+    "login_title": "Login to get your fans support",
+    "login_sign_in_button": "Sign In"
   }
 }
