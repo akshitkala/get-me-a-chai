@@ -1,32 +1,17 @@
 {
   "page": {
-    "page_title": "Your fans can buy u a Chai",
-    "start_here_button_text": "Start Here",
-    "read_more_button_text": "Read More",
-    "fund_yourself_text": "Fund Yourself",
-    "earn_tips_text": "Earn Tips",
-    "fans_want_to_help_text": "Fans want to help"
-  },
-  "footer": {
-    "footer_text": "copyright &copy; Get me a chai-Fund your projects - all rights reserved"
-  },
-  "login": {
-    "login_header_text": "Login to get your fans support",
-    "or_login_with_email_text": "or login with email",
-    "email_input_placeholder": "Email Address",
-    "password_input_placeholder": "Password",
-    "forget_password_text": "Forget Password?",
-    "or_signup_text": "or sign up"
+    "hero_title_text": "Get Me A Chai",
+    "hero_description": "A crowd fundeding platform for creators. Get funded by your fans and follower.Start now!",
+    "tea_image": "https://example.com/tea-image.jpg",
+    "man_image": "https://example.com/man-image.jpg",
+    "coin_image": "https://example.com/coin-image.jpg",
+    "group_image": "https://example.com/group-image.jpg"
   },
   "navbar": {
-    "login_navbar_button": "Login",
-    "logout_navbar_button": "Logout"
+    "navbar_login": "Login",
+    "navbar_logout": "Logout"
   },
-  "image": {
-    "hero_image": "https://images.unsplash.com/photo-1606660265514-358ebbadc80d?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1575&q=80",
-    "tea_image": "/tea.gif",
-    "man_image": "/man.gif",
-    "coin_image": "/coin.gif",
-    "group_image": "/group.gif"
+  "footer": {
+    "footer_copyright_text": "copyright &copy; Get me a chai-Fund your projects - all rights reserved"
   }
 }
