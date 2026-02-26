@@ -1,28 +1,32 @@
 {
   "page": {
-    "page_supporters_text": "page_supporters",
-    "page_make_a_payment_text": "page_make_a_payment",
-    "page_pay_button_text": "page_pay",
-    "page_image_1": "page_image_1",
-    "page_image_2": "page_image_2",
-    "page_image_3": "page_image_3",
-    "hero_title_text": "Get me a Chai",
-    "hero_subtitle_text": "A crowd fundeding platform for creators. Get funded by your fans and follower.Start now!",
-    "man_image": "/man.gif",
-    "coin_image": "/coin.gif",
-    "group_image": "/group.gif",
-    "tea_image": "/tea.gif"
+    "page_title": "Your fans can buy u a Chai",
+    "start_here_button_text": "Start Here",
+    "read_more_button_text": "Read More",
+    "fund_yourself_text": "Fund Yourself",
+    "earn_tips_text": "Earn Tips",
+    "fans_want_to_help_text": "Fans want to help"
   },
   "footer": {
-    "copyright_text": "copyright &copy; Get me a chai-Fund your projects - all rights reserved"
-  },
-  "navbar": {
-    "navbar_logo_text": "navbar_logo",
-    "navbar_login_text": "navbar_login",
-    "navbar_logout_text": "navbar_logout"
+    "footer_text": "copyright &copy; Get me a chai-Fund your projects - all rights reserved"
   },
   "login": {
-    "login_title_text": "Login to get your fans support",
-    "login_welcome_text": "Welcome back!"
+    "login_header_text": "Login to get your fans support",
+    "or_login_with_email_text": "or login with email",
+    "email_input_placeholder": "Email Address",
+    "password_input_placeholder": "Password",
+    "forget_password_text": "Forget Password?",
+    "or_signup_text": "or sign up"
+  },
+  "navbar": {
+    "login_navbar_button": "Login",
+    "logout_navbar_button": "Logout"
+  },
+  "image": {
+    "hero_image": "https://images.unsplash.com/photo-1606660265514-358ebbadc80d?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1575&q=80",
+    "tea_image": "/tea.gif",
+    "man_image": "/man.gif",
+    "coin_image": "/coin.gif",
+    "group_image": "/group.gif"
   }
 }
