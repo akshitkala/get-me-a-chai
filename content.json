@@ -1,12 +1,28 @@
 {
+  "page": {
+    "page_supporters_text": "page_supporters",
+    "page_make_a_payment_text": "page_make_a_payment",
+    "page_pay_button_text": "page_pay",
+    "page_image_1": "page_image_1",
+    "page_image_2": "page_image_2",
+    "page_image_3": "page_image_3",
+    "hero_title_text": "Get me a Chai",
+    "hero_subtitle_text": "A crowd fundeding platform for creators. Get funded by your fans and follower.Start now!",
+    "man_image": "/man.gif",
+    "coin_image": "/coin.gif",
+    "group_image": "/group.gif",
+    "tea_image": "/tea.gif"
+  },
   "footer": {
-    "footer_copyright_text": "ak"
+    "copyright_text": "copyright &copy; Get me a chai-Fund your projects - all rights reserved"
+  },
+  "navbar": {
+    "navbar_logo_text": "navbar_logo",
+    "navbar_login_text": "navbar_login",
+    "navbar_logout_text": "navbar_logout"
   },
   "login": {
-    "login_title": "Login",
-    "login_sign_in_with_github": "Sign in with GitHub",
-    "login_sign_in_with_google": "Sign in with Google",
-    "login_or_login_with_email": "or login with email",
-    "login_or_sign_up": "or sign up"
+    "login_title_text": "Login to get your fans support",
+    "login_welcome_text": "Welcome back!"
   }
 }
