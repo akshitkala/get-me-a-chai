@@ -3,27 +3,30 @@
     "footer_copyright_text": "copyright &copy; Get me a chai-Fund your projects - all rights reserved"
   },
   "navbar": {
-    "navbar_login_text": "Login"
+    "navbar_welcome_text": "welcome",
+    "navbar_dashboard_link_text": "Dashboard",
+    "navbar_settings_link_text": "Settings",
+    "navbar_earnings_link_text": "Earnings",
+    "navbar_sign_out_link_text": "Sign out"
   },
   "page": {
-    "page_hero_title": "Get me a chai",
-    "page_teachers_subtitle": "A crowd fundeding platform for creators. Get funded by your fans and follower.Start now!",
-    "page_fund_yourself_title": "Fund Yourself",
-    "page_earn_tips_title": "Earn Tips",
-    "page_fans_want_to_help_title": "Fans want to help",
-    "page_start_here_button": "Start Here",
-    "page_read_more_button": "Read More",
-    "page_your_fans_can_buy_u_a_chai_title": "Your fans can buy u a Chai",
-    "page_hero_image": "https://merakiui.com/images/logo.svg",
-    "page_man_image": "page.man_image",
-    "page_coin_image": "page.coin_image",
-    "page_group_image": "page.group_image"
+    "page_supporters_text": "Supporters",
+    "page_make_a_payment_text": "Make a Payment",
+    "page_hero_title_text": "Get me a chai",
+    "page_hero_description_text": "A crowd fundeding platform for creators. Get funded by your fans and follower.Start now!",
+    "page_start_here_button_text": "Start Here",
+    "page_read_more_button_text": "Read More",
+    "page_fans_can_buy_chai_text": "Your fans can buy u a Chai",
+    "page_fund_yourself_text": "Fund Yourself",
+    "page_earn_tips_text": "Earn Tips",
+    "page_fans_want_to_help_text": "Fans want to help",
+    "page_tea_image": "tea_image",
+    "page_man_image": "man_image",
+    "page_coin_image": "coin_image",
+    "page_group_image": "group_image"
   },
   "login": {
-    "login_title": "Login to get your fans support",
-    "login_welcome_back_text": "Welcome back!",
-    "login_or_login_with_email_text": "or login with email",
-    "login_forget_password_text": "Forget Password?",
-    "login_sign_in_text": "Sign In"
+    "login_hero_title_text": "Login to get your fans support",
+    "login_welcome_back_text": "Welcome back!"
   }
 }
